@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css?family=Red+Hat+Display');
+
+body {
+	font-family: 'Red Hat Display';
+	background-image: url("../images/beach-calm.jpg");
+	background-color: #ffffff;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.contenedor{
+	padding: 1rem;
+	text-align: center;
+}
+
+.perfil{
+	padding: 1rem;
+	text-align: center;
+}
+
+.perfil img{
+	width: auto;
+    height: 100%;
+    border: 5px solid #fff;
+    border-radius: 50%;
+}
